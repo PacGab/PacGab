@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PacGab
-- 👀 I’m interested in informatic developpment and project managing.
+- 👀 I’m interested in computer developpment and project managing.
 - 🌱 I’m currently learning to do this at the IUT 2 of Grenoble (France).
 - 💞️ I’m not looking to collaborate for now.
 - 📫 If you need to reach me, please send an email to gabriel.pacotte@gmail.com
